@@ -48,7 +48,7 @@ Helped leadership make faster and more informed decisions for workforce planning
 
 
 ##  DashBoard screenshot : 
-  (https://github.com/Ganeshshivshinde18/Power-BI-analysis-Dashboard/blob/main/HR%20Analytics%20snapshot.png)
+  [](https://github.com/Ganeshshivshinde18/Power-BI-analysis-Dashboard/blob/main/HR%20Analytics%20snapshot.png)
 
 
 
