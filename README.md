@@ -47,7 +47,8 @@ Enabled HR teams to quickly spot attendance issues, overworked employees, and de
 Helped leadership make faster and more informed decisions for workforce planning and business process improvements
 
 
-##  DashBoard screenshot :
+##  DashBoard screenshot : 
+  https://github.com/Ganeshshivshinde18/Power-BI-analysis-Dashboard/blob/main/HR%20Analytics%20snapshot.png
 
 
 
